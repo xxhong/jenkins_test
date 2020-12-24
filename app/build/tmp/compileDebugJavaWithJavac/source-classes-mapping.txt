@@ -1,0 +1,11 @@
+com/houn/jenkinstest/BuildConfig.java
+ com.houn.jenkinstest.BuildConfig
+com/houn/jenkinstest/FirstFragment.java
+ com.houn.jenkinstest.FirstFragment
+ com.houn.jenkinstest.FirstFragment$1
+com/houn/jenkinstest/SecondFragment.java
+ com.houn.jenkinstest.SecondFragment
+ com.houn.jenkinstest.SecondFragment$1
+com/houn/jenkinstest/MainActivity.java
+ com.houn.jenkinstest.MainActivity
+ com.houn.jenkinstest.MainActivity$1

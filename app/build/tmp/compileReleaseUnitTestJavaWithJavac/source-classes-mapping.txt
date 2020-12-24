@@ -1,0 +1,2 @@
+com/houn/jenkinstest/ExampleUnitTest.java
+ com.houn.jenkinstest.ExampleUnitTest
