@@ -1,0 +1,4 @@
+#curl -X POST -H "Content-Type: application/json" -d {\"msg_type\": \"text\",\"content\": {\"post\": {\"zh_cn\": {\"title\": \"Nonogram.ly Android 发布成功!\",\"text\": \"版本说明: \\n$desc \\n下载链接：https://www.pgyer.com/$dPath ； 密码：joy123\"}}}}  https://open.feishu.cn/open-apis/bot/v2/hook/3f368105-c7e9-474c-9c94-f3d7b4ea7ef8
+#curl -X POST  -d '{"msg_type": "text","content": {"text": "新更新提醒"}' https://open.feishu.cn/open-apis/bot/v2/hook/3f368105-c7e9-474c-9c94-f3d7b4ea7ef8
+#curl -X POST -d '{"msg_type": "text","content": {"text": "新更新提醒"}}' https://open.feishu.cn/open-apis/bot/v2/hook/3f368105-c7e9-474c-9c94-f3d7b4ea7ef8
+curl -X POST -H "Content-Type: application/json" -d '{"title": "Hello Feishu","text": "Good Feishu"}' https://open.feishu.cn/open-apis/bot/v2/hook/3f368105-c7e9-474c-9c94-f3d7b4ea7ef8
