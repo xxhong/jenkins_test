@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
+                Snackbar.make(view, "哈哈我要提交测试哈哈我要提交测试哈哈我要提交测试", Snackbar.LENGTH_LONG)
                         .setAction("Action", null).show();
             }
         });
