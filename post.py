@@ -8,7 +8,7 @@ def execCmd(cmd):
     return text
 txt1 = execCmd('git rev-parse HEAD')
 print("txt1:"+txt1)
-gitTxt = "git log --pretty=format:'%s' "+txt1+ ' -1'
+gitTxt = 'git log --pretty=format:"%s" '+txt1+ " -1"
 print(gitTxt)
 txt2 = execCmd(gitTxt)
 
